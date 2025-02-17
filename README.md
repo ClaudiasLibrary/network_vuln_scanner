@@ -1,5 +1,8 @@
 # Network Vulnerability Scanner
 
+## Theory behind the code
+[Network Vulnerability Scans](https://claudiaslibrary.notion.site/Vulnerability-Scans-13219f7568328026a09bfc4a099fddd7)
+
 ## Overview
 This Python-based **Network Vulnerability Scanner** is a tool designed for security professionals, network administrators, and ethical hackers. It automates the process of scanning a network to identify open ports, grab service banners, and check for potential vulnerabilities based on known exploits.
 
